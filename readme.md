@@ -36,6 +36,6 @@ python carScaper.py
 python WikiScraper.py
 ```
 
-## � Notes
+## Notes
 
 This is a learning project for educational purposes only. Always respect website terms of service and robots.txt when scraping.
